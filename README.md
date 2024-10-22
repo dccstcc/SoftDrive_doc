@@ -80,7 +80,7 @@ Dominik Stec - dccstcc@gmail.com
 
 Project URL:
 <br />
-`https://github.com/dominik-stec/BSc_degree_engineer_docs_PJA.git`
+`https://github.com/dominik-stec/BSc_degree_engineer.git`
 
 <!-- ACKNOWLEDGEMENTS
 ## Acknowledgements
