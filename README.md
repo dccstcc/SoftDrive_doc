@@ -74,7 +74,7 @@ See `LICENSE` for more information.
 
 ## Contact
 
-Dominik Stec - dominikstec@devapp.tools
+Dominik Stec - dccstcc@gmail.com
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
@@ -101,16 +101,16 @@ Project URL:
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/dominik-stec/BSc_degree_engineer_docs_PJA.svg?style=for-the-badge
-[contributors-url]: https://github.com/dominik-stec/BSc_degree_engineer_docs_PJA/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/dominik-stec/BSc_degree_engineer_docs_PJA.svg?style=for-the-badge
-[forks-url]: https://github.com/dominik-stec/BSc_degree_engineer_docs_PJA/network/members
-[stars-shield]: https://img.shields.io/github/stars/dominik-stec/BSc_degree_engineer_docs_PJA.svg?style=for-the-badge
-[stars-url]: https://github.com/dominik-stec/BSc_degree_engineer_docs_PJA/stargazers
-[issues-shield]: https://img.shields.io/github/issues/dominik-stec/BSc_degree_engineer_docs_PJA.svg?style=for-the-badge
-[issues-url]: https://github.com/dominik-stec/BSc_degree_engineer_docs_PJA/issues
+[contributors-shield]: https://img.shields.io/github/contributors/dominik-stec/BSc_degree_engineer.svg?style=for-the-badge
+[contributors-url]: https://github.com/dominik-stec/BSc_degree_engineer/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/dominik-stec/BSc_degree_engineer.svg?style=for-the-badge
+[forks-url]: https://github.com/dominik-stec/BSc_degree_engineer/network/members
+[stars-shield]: https://img.shields.io/github/stars/dominik-stec/BSc_degree_engineer.svg?style=for-the-badge
+[stars-url]: https://github.com/dominik-stec/BSc_degree_engineer/stargazers
+[issues-shield]: https://img.shields.io/github/issues/dominik-stec/BSc_degree_engineer.svg?style=for-the-badge
+[issues-url]: https://github.com/dominik-stec/BSc_degree_engineer/issues
 [license-shield]: https://img.shields.io/badge/License-NONE-orange
-[license-url]: https://github.com/dominik-stec/BSc_degree_engineer_docs_PJA/blob/master/LICENSE.md
+[license-url]: https://github.com/dominik-stec/BSc_degree_engineer/blob/master/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/dominik-stec
 [product-screenshot]: images/screenshot.png
